@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(164, 137, 190);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#submit-date{
+    display: flex;
+    justify-content: center;
+}
+input, button{
+    margin: 5px;
+}
+input{
+    width: 100px;
+}
+.error{
+    display: none;
+    padding: 5px;
+    background-color: lightcoral;
+    color: darkred;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+}
+table{
+    width: 100%;
+    margin: 40px auto;
+}
+table, th, td, tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    text-align: center;
+}
+.click-when-you-begin-delivery-from-restaurant, .go-back-to-restaurant{
+    display: block; /* essential for auto margins to work, default is not block of button */
+    margin: 20px auto;
+    width: 100%;
+    padding: 30px;
+    font-size: 1.5rem;
+}
+h2{
+    text-align: center;
+}
+.go-back{
+    width: 400px;
+    margin: 20px auto;
+    text-align: center;
+}
+.go-back a{
+    text-decoration: none;
+}

@@ -1,0 +1,122 @@
+body{
+    background-color: rgb(164, 137, 190);
+}
+.h1-heading{
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+.add-person{
+    text-align: center;
+    font-size: larger;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 25px; 
+}
+.delete-person{
+    display: flex;
+    justify-content: space-around;
+    font-size: larger;
+    border: 2px solid black;
+    background-color: white;
+    margin-bottom: 25px;
+}
+.delete-restaurant-staff{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 10px;
+}
+.delete-delivery-person{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 10px;
+}
+.item{
+    display: flex;
+    justify-content: space-around;
+    font-size: larger;
+    border: 2px solid black;
+    background-color: white;
+    margin-bottom: 25px;
+}
+.add-item{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 10px;
+}
+.edit-item{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 10px;
+}
+.add-land-rent-if-there{
+    text-align: center;
+    font-size: larger;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 25px;
+}
+.rent{
+    display: flex;
+    justify-content: space-around;
+    font-size: larger;
+    border: 2px solid black;
+    background-color: white;
+    margin-bottom: 25px;
+}
+.edit-land-rent-if-added{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 10px;
+}
+.delete-land-rent-if-added{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 10px;
+}
+.add-location{
+    text-align: center;
+    font-size: larger;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 25px;
+}
+.edit-location{
+    text-align: center;
+    font-size: larger;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 25px;
+}
+.add-restaurant-staff-and-delivery-person-needs-for-day{
+    text-align: center;
+    font-size: larger;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 25px; 
+}
+.admin-logout{
+    text-align: center;
+    font-size: larger;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 25px; 
+}
+.reestimate-funds-if-no-needs-today{
+    text-align: center;
+    font-size: larger;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 25px; 
+}
+a{
+    color: blue;
+    text-decoration: none;
+}

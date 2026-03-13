@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(164, 137, 190);
+}
+#container{
+    padding: 20px;
+    width: 40%;
+    margin: 40px auto;
+    background-color: white;
+}
+#select-delivery-person-to-assign-order{
+    display: flex;
+    justify-content: space-between;
+}
+#assign{
+    margin-top: 40px;
+}
+#assign button{
+    width: 100%;
+}
+.error{
+    display: none;
+    padding: 5px;
+    background-color: lightcoral;
+    color: darkred;
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+}

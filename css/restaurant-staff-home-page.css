@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(164, 137, 190);
+    text-align: center;
+}
+h1{
+    margin-bottom: 100px;
+    margin-top: 100px
+}
+#links{
+    display: flex;
+    justify-content: space-evenly;
+}
+#links div{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-color: aquamarine;
+}
+#links div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    font-size: larger;
+    color: blue;
+}
+p{
+    font-size: 2rem;
+    background-color: black;
+    color: white;
+    width: 60vw;
+    margin: 10px auto;
+}

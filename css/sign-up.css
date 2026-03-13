@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(164, 137, 190);
+}
+.h1-heading{
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+.sign-up-container{
+    width: 400px;
+    margin: 10px auto;
+    border: 2px solid black;
+    padding: 30px;
+    background-color: white;
+}
+.name-label{
+    margin-right: 119px;
+    margin-bottom: 25px;
+}
+.password-label{
+    margin-right: 93px;
+    margin-bottom: 25px;
+}
+.confirm-password-label{
+    margin-right: 106px;
+    margin-bottom: 25px;
+}
+input{
+    margin-bottom: 25px;
+}
+.inputclass{
+    width: 100%;
+}

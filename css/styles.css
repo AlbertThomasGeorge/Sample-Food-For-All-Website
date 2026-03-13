@@ -1,0 +1,52 @@
+.background{
+    background-color: rgb(164, 137, 190);
+    margin-top: 100px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 100px;
+}
+#container-of-boxes{
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    border: 2px solid black;
+    padding: 30px;
+    background-color: aquamarine;
+}
+.center{
+    display: flex;
+    align-items: center;
+}
+#container-of-boxes a{
+    text-decoration: none;
+    color: rgb(1, 1, 62);
+}
+#container-of-boxes a:visited{
+    color: rgb(1, 1, 62);
+}
+.box:hover{
+    background-color: aqua;
+}
+.user-login-link{
+    text-align: center;
+}
+.sign-up-link{
+    text-align: center;
+}
+.restaurant-staff-first-time-login-link{
+    text-align: center;
+}
+.restaurant-staff-login-link{
+    text-align: center;
+}
+.delivery-person-first-time-login-link{
+    text-align: center;
+}
+.delivery-person-login-link{
+    text-align: center;
+}
+
+
+
